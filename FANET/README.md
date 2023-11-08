@@ -1,4 +1,4 @@
-Just an ambitious attempt to create **DRONE ROUTERS** and ensure that the Internet spreads far and wide!
+Just an ambitious attempt to create **DRONE ROUTERS** and ensure that the Internet spreads far and wide and as awesomely as possible!
 
 The Internet defines itself as a connection, quite literally. It is an enabler of communication, friendships and collaborations! 
 
